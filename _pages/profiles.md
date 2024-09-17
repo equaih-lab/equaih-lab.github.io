@@ -10,7 +10,7 @@ nav_order: 7
 profile:
   align: right
   image: Gloria_Kwak_Emory.jpg
-  content: about_einstein.md
+  content: about_kwak.md
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 267</p>
@@ -21,7 +21,7 @@ profile:
     <p>Atlanta, GA 30322</p>
   - align: left
     image: Gloria_Kwak_Emory.jpg
-    content: about_einstein.md
+    content: about_kwak.md
     image_circular: false # crops the image to make it circular
     more_info: >
     <p>Office 267</p>
