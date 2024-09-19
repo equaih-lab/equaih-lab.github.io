@@ -9,7 +9,7 @@ nav_order: 7
 
 profile:
   align: right
-  image: Gloria_Kwak_Emory.jpg
+  image: Gloria_Kwak_Emory.png
   content: about_kwak.md
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -20,7 +20,7 @@ profile:
     <p>1520 Clifton Rd N E</p>
     <p>Atlanta, GA 30322</p>
   - align: left
-    image: Gloria_Kwak_Emory.jpg
+    image: Gloria_Kwak_Emory.png
     content: about_kwak.md
     image_circular: false # crops the image to make it circular
     more_info: >

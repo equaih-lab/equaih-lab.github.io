@@ -6,7 +6,7 @@ subtitle: <a href='#'>Emory University</a>. Atlanta, GA
 
 profile:
   align: right
-  image: Gloria_Kwak_Emory.jpg
+  image: Gloria_Kwak_Emory.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 267</p>
