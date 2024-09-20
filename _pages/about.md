@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Advancing Equitable AI Solutions for Inclusive Healthcare
-<br>
+<br><br><br><br>
 
 ### About the Lab
 Led by Dr. Hyunjung Gloria Kwak, our group focuses on advancing machine learning and AI to promote fairness in healthcare. Our goals are:
@@ -32,9 +32,10 @@ Led by Dr. Hyunjung Gloria Kwak, our group focuses on advancing machine learning
 - **Fairness**: Design solutions that are equitable for all patients, not just a select few.
 
 We aim to bridge technology and healthcare with integrity and inclusivity.
+<br><br><br><br>
 
 ### Join Our Lab
-We are actively hiring research students/ assistants at various levels, postdocs*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out through <a href='mailto:hkwak30@emory.edu'>this</a>.
+We are actively hiring research students/ assistants at various levels, postdocs*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out through <a href='mailto:hkwak30@emory.edu'>**this**</a>.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
