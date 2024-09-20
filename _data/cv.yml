@@ -8,70 +8,24 @@
     - name: Languages
       value: Korean, English, German
 
-  "basics": {
-    "name": "Hyunjung Gloria, Kwak",
-    "label": "Assistant Professor",
-    "image": "",
-    "email": "hkwak30[at]emory[dot]edu",
-    "phone": "",
-    "url": "https://ucabhkw.github.io/",
-    "summary": "Dr. Gloria Hyunjung Kwak is an Assistant Professor at Emory University's Nell Hodgson Woodruff School of Nursing/ Centre for Data Science/ Emory AI Health. With a Ph.D. in Computer Science and a strong background in AI, my research focuses on developing equitable AI solutions that address healthcare disparities and social determinants of health.",
-    "location": {
-      "address": "1520 Clifton Rd N E",
-      "postalCode": "GA 30322",
-      "city": "Atlanta",
-      "countryCode": "US",
-      "region": "Georgia"
-    },
-    "profiles": [
-      {
-        "network": "Linkedin",
-        "username": "hyjkwak",
-        "url": "https://www.linkedin.com/in/hyjkwak/"
-      }
-    ]
-
 - title: Education
   type: time_table
   contents:
     - title: Postdoc
       institution: Harvard Medical School/ Massachusetts General Hospital, Boston, USA
       year: 2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: PhD
       institution: Computer Science and Technology, The Hong Kong University of Science and Technology, Hong Kong, HKG
       year: 2021
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Master
       institution: Machine Learning, University College London, London, GBR
       year: 2014
-      description:
-        - Description 1.
-        - Description 2.
     - title: Bachelor
       institution: Computer and Communication Engineering, Korea University, Seoul, KOR
       year: 2014
-      description:
-        - Description 1.
-        - Description 2.
     - title: Erasmus
       institution: Erasmus, University of Nottingham, Nottingham, GBR		
       year: 2012
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
@@ -79,51 +33,7 @@
     - title: Data Scientist
       institution: LG
       year: 2017
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Data Analyst
       institution: Deloitte
       year: 2017
-      description:
-        - Description 1.
-        - Description 2.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

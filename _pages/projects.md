@@ -9,6 +9,8 @@ display_categories: work #[work, fun]
 horizontal: false
 ---
 
+The Heart to Heart Equitable AI in Healthcare Lab is dedicated to advancing equitable AI in healthcare, tackling algorithmic bias, and addressing social determinants of health to improve patient care. Our research spans clinical decision support, healthcare disparities, and the development of fair and inclusive AI models.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

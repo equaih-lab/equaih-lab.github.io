@@ -3,9 +3,9 @@
     "name": "Hyunjung Gloria, Kwak",
     "label": "Assistant Professor",
     "image": "",
-    "email": "hkwak30[at]emory[dot]edu",
+    "email": "hyunjung[dot]kwak[at]emory[dot]edu",
     "phone": "",
-    "url": "https://ucabhkw.github.io/",
+    "url": "",
     "summary": "Dr. Gloria Hyunjung Kwak is an Assistant Professor at Emory University's Nell Hodgson Woodruff School of Nursing/ Centre for Data Science/ Emory AI Health. With a Ph.D. in Computer Science and a strong background in AI, my research focuses on developing equitable AI solutions that address healthcare disparities and social determinants of health.",
     "location": {
       "address": "1520 Clifton Rd N E",
@@ -24,62 +24,56 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Deloitte",
+      "position": "Data Analyst",
+      "startDate": "2015",
+      "endDate": "2015"
+    },
+    {
+      "name": "LG",
+      "position": "Data Scientist",
+      "startDate": "2015",
+      "endDate": "2017"
+    },
+    {
+      "name": "National Forensic Service",
+      "position": "Research Intern",
+      "startDate": "2012",
+      "endDate": "2012"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "institution": "Harvard Medical School/ Massachusetts General Hospital, Boston, USA",
+      "location": "Boston",
+      "area": "AI in Healthcare",
+      "studyType": "PostDoc",
+      "startDate": "2021",
+      "endDate": "2024"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "institution": "The Hong Kong University of Science and Technology, Hong Kong, HKG",
+      "location": "Hong Kong",
+      "area": "Computer Science and Technology",
+      "studyType": "PhD",
+      "startDate": "2017",
+      "endDate": "2021"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "institution": "University College London, London, GBR",
+      "location": "London",
+      "area": "Machine Learning",
+      "studyType": "MSc",
+      "startDate": "2013",
+      "endDate": "2014"
+    },
+    {
+      "institution": "Korea University, Seoul, KOR",
+      "location": "Seoul",
+      "area": "Computer and Communication Engineering",
+      "studyType": "BSc",
+      "startDate": " ",
+      "endDate": "2013"
     }
   ]
 }
