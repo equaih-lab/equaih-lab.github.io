@@ -5,6 +5,13 @@ date: 2024-10-15 00:00:00-0400
 inline: false
 related_posts: false
 ---
+## Contents
+
+ - Toward an Ethical Framework for Development and Deployment of AI in Neurocritical Care: Progress from the Bridge2AI for Clinical Care (CHoRUS) Program (Michael Young)
+ - Development of the Bridge2AI for Clinical Care CHoRUS Collaborative Cloud and Data Standards: Progress from the Bridge2AI for Clinical Care (CHoRUS) Program (Ciera McCrary)
+ - Application of Intracranial Pressure Signals to Monitor Vasospasm Severity in Patients with Aneurysmal Subarachnoid Hemorrhage (Morteza Zabihi, Gloria Kwak)
+ - Understanding the Association between Social Determinants of Health and Early Limitation of Life-Sustaining Therapy in the Neurocritical Care Unit (Gloria Kwak)
+
 
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
@@ -33,4 +40,7 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
 ->
+
+
+
 
