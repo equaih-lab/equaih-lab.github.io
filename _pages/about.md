@@ -17,7 +17,7 @@ profile:
     <p>Atlanta, GA 30322</p>
 
 news: true # includes a list of news items
-selected_papers: {true} # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -27,9 +27,9 @@ Advancing Equitable AI Solutions for Inclusive Healthcare
 ### About the Lab
 Led by Dr. Hyunjung Gloria Kwak, our group focuses on advancing machine learning and AI to promote fairness in healthcare. Our goals are:
 
-- Clinical Impact: Develop practical algorithms that address real clinical challenges.
-- Machine Learning: Ensure rigorous, safe AI solutions for high-stakes environments like healthcare.
-- Fairness: Design solutions that are equitable for all patients, not just a select few.
+- **Clinical Impact**: Develop practical algorithms that address real clinical challenges.
+- **Machine Learning**: Ensure rigorous, safe AI solutions for high-stakes environments like healthcare.
+- **Fairness**: Design solutions that are equitable for all patients, not just a select few.
 
 We aim to bridge technology and healthcare with integrity and inclusivity.
 
