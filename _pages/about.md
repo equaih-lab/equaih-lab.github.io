@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 ## Welcome to Kwak’s Lab
 Advancing Equitable AI Solutions for Inclusive Healthcare
-<br>
+<br><br><br>
 
 ## About the Lab
 Led by Dr. Hyunjung Gloria Kwak, our group focuses on advancing machine learning and AI to promote fairness in healthcare. Our goals are:
