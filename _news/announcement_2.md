@@ -5,6 +5,8 @@ date: 2024-10-15 00:00:00-0400
 inline: false
 related_posts: false
 ---
+Distinguished Project Presentation: Multistate modeling for Social Determinants of Health (SDOH) in Neuro ICU, presented at the Neurocritical Care Society (NCS).
+
 ## Contents
 
  - Toward an Ethical Framework for Development and Deployment of AI in Neurocritical Care: Progress from the Bridge2AI for Clinical Care (CHoRUS) Program (Michael Young)

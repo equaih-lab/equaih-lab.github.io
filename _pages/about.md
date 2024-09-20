@@ -33,6 +33,9 @@ Led by Dr. Hyunjung Gloria Kwak, our group focuses on advancing machine learning
 
 We aim to bridge technology and healthcare with integrity and inclusivity.
 
+### Join Our Lab
+We are actively hiring research students/ assistants at various levels, postdocs*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out through <a href='mailto:hkwak30@emory.edu'>this</a>.
+
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
