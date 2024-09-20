@@ -8,17 +8,19 @@ nav_order: 7
 
 
 profile:
-  align: right
-  image: Gloria_Kwak_Emory.png
-  content: about_kwak.md
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Office 267</p>
-    <p>Center for Data Science</p>
-    <p>Nell Hodgson Woodruff School of Nursing</p>
-    <p>Emory University</p>
-    <p>1520 Clifton Rd N E</p>
-    <p>Atlanta, GA 30322</p>
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: Gloria_Kwak_Emory.png
+    content: about_kwak.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Office 267</p>
+      <p>Center for Data Science</p>
+      <p>Nell Hodgson Woodruff School of Nursing</p>
+      <p>Emory University</p>
+      <p>1520 Clifton Rd N E</p>
+      <p>Atlanta, GA 30322</p>
   - align: left
     image: Gloria_Kwak_Emory.png
     content: about_kwak.md

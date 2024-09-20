@@ -1,5 +1,11 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    #gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
+    #gem "wdm", ">= 0.1.0"
+    #gem 'github-pages'
+    #gem "kramdown-parser-gfm"
+    gem 'liquid', '~> 4.0', '>= 4.0.4'
+    gem 'json'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
