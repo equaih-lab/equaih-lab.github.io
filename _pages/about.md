@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Emory University</a>. Atlanta, GA
+subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>. Atlanta, GA
 
 profile:
   align: right
@@ -16,9 +16,9 @@ profile:
     <p>1520 Clifton Rd N E</p>
     <p>Atlanta, GA 30322</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 Advancing Equitable AI Solutions for Inclusive Healthcare
