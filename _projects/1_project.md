@@ -16,9 +16,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: Social Determinants of Health in ICUs
+    description: Investigating how social factors influence patient outcomes in intensive care settings, integrating this data into AI models to enhance predictions and interventions.
+    img: #/assets/img/12.jpg
     ---
 
 <div class="row">
