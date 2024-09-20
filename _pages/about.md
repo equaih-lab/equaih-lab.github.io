@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>. Atlanta, GA
+subtitle: <a href='https://www.emory.edu/home/index.html'>Emory University</a>, Atlanta, GA
 
 profile:
   align: right
@@ -21,20 +21,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Advancing Equitable AI Solutions for Inclusive Healthcare
-<br><br><br>
+<br><br>
 
-### About the Lab
-Led by Dr. Hyunjung Gloria Kwak, our group focuses on advancing machine learning and AI to promote fairness in healthcare. Our goals are:
+## About the Lab
+Led by Dr. Hyunjung Gloria Kwak, our group is dedicated to advancing equitable AI solutions for inclusive healthcare. We focus on harnessing machine learning and AI to promote fairness and integrity in healthcare. Our key goals are:
 
 - **Clinical Impact**: Develop practical algorithms that address real clinical challenges.
 - **Machine Learning**: Ensure rigorous, safe AI solutions for high-stakes environments like healthcare.
 - **Fairness**: Design solutions that are equitable for all patients, not just a select few.
 
-We aim to bridge technology and healthcare with integrity and inclusivity.
-<br><br><br>
+We have collaborations with institutions like MIT, Harvard, CUHK, HKUST, UCL, SNUH, and global health initiatives, as well as industry partners. We aim to bridge technology and healthcare with integrity and inclusivity.
 
-### Join Our Lab
+<br><br>
+
+## Join Our Lab
 We are actively hiring research students/ assistants at various levels, postdocs*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out through <a href='mailto:hkwak30@emory.edu'>**this**</a>.
 
 <!--
