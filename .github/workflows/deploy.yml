@@ -58,6 +58,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  pages: write
   contents: write
 
 jobs:
@@ -93,3 +94,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
+          branch: gh-pages # 배포할 브랜치 지정 여기서부터 아래 3개 추가함
+          clean: true # 기존 파일을 모두 삭제 후 새로 배포
+          token: ${{ secrets.GITHUB_TOKEN }}
