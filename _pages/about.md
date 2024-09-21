@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 <br><br>
 
-## About the Lab
+## About our lab
 Led by Dr. Hyunjung Gloria Kwak, our group is dedicated to advancing equitable AI solutions for inclusive healthcare. We focus on harnessing machine learning and AI to promote fairness and integrity in healthcare. Our key goals are:
 
 - **Clinical Impact**: Develop practical algorithms that address real clinical challenges.
@@ -34,7 +34,7 @@ We have collaborations with institutions like MIT, Harvard, CUHK, HKUST, UCL, SN
 
 <br><br>
 
-## Join Our Lab
+## Join our lab
 We are actively hiring research students/ assistants at various levels, postdocs*, and welcoming collaborators. If you are a student or postdoc interested in joining us, please send your CV and cover letter when reaching out through <a href='mailto:hkwak30@emory.edu'>**this**</a>.
 
 <!--

@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Equitable AI in Healthcare (Kwak's lab) # the website title (if blank, full name will be used instead)
+title: >
+  <b>Equi<b/>table AI in Healthcare (EQUAIH: Kwak's lab) # the website title (if blank, full name will be used instead)
 first_name: Hyunjung
 middle_name: Gloria
 last_name: Kwak
