@@ -1,5 +1,3 @@
-
-
 ## About Me
 
 I’m Dr. Gloria Hyunjung Kwak, an Assistant Professor at Emory University’s Nell Hodgson Woodruff School of Nursing/ Centre for Data Science/ Emory AI Health. With a Ph.D. in Computer Science and a strong background in AI, my research focuses on developing equitable AI solutions that address healthcare disparities and social determinants of health.
@@ -23,9 +21,6 @@ and
 _"Live the moment and fill every second with what you love."_
 
 I find joy in nature's little moments: the sparkle of sunshine, the earthy scent of rain on grass, and the magic of winter snow with glistening snowflakes and the crisp, frosty air. I love the cozy warmth of mulled wine in winter, savoring each season for its unique charm.
-
-
-
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
