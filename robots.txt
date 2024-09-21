@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ucabhkw.github.io/sitemap.xml
+Sitemap: https://equaih.github.io/sitemap.xml
