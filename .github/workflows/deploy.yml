@@ -58,7 +58,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  pages: write 
+  pages: write
   contents: write
 
 jobs:
