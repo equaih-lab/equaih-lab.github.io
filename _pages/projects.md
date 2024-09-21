@@ -45,7 +45,7 @@ The <b>Equ</b>itable <b>AI</b> in <b>H</b>ealthcare (<b>EQUAIH</b>) Lab is dedic
 <!--
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
-  <!-- Generate cards for each project --> 
+  <!-- Generate cards for each project -->
 <!--
 {% if page.horizontal %}
 
@@ -64,4 +64,4 @@ The <b>Equ</b>itable <b>AI</b> in <b>H</b>ealthcare (<b>EQUAIH</b>) Lab is dedic
   </div>
   {% endif %}
 {% endif %}
-</div> 
+</div>

@@ -4,7 +4,7 @@
     - name: Full Name
       value: Hyunjung Gloria, Kwak
     - name: Date of Birth
-      value: 
+      value:
     - name: Languages
       value: Korean, English, German
 
@@ -24,7 +24,7 @@
       institution: Computer and Communication Engineering, Korea University, Seoul, KOR
       year: 2014
     - title: Erasmus
-      institution: Erasmus, University of Nottingham, Nottingham, GBR		
+      institution: Erasmus, University of Nottingham, Nottingham, GBR
       year: 2012
 
 - title: Experience
@@ -36,4 +36,3 @@
     - title: Data Analyst
       institution: Deloitte
       year: 2017
-

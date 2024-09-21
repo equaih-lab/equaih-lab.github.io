@@ -49,7 +49,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false  #true
+search_enabled: false #true
 socials_in_search: false #true
 bib_search: true
 

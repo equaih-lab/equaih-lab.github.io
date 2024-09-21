@@ -15,8 +15,6 @@ nav_order: 2
 
 </div>
 
-
-
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
